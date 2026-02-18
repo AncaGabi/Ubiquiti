@@ -12,6 +12,6 @@ In console some errors can be seen. Investigation for those errors is needed to 
 
 Workflow:
 1. Open "UI Test QA Engineer - report Anca Paraschiv.pdf"
-2. For each reported bug/improvement check the corresponding image/video, starting with <number> (from 1 to 9)
+2. For each reported bug/improvement check the corresponding image/video, starting with number (from 1 to 9)
 3. Open "Additional report - Anca Paraschiv.pdf"
-4. For each reported bug/improvement check the corresponding image/video, starting with Additional_<number>
+4. For each reported bug/improvement check the corresponding image/video, starting with Additional_
