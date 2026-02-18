@@ -9,3 +9,9 @@ Additionally, I have found 3 bugs on https://store.ui.com/ while preparing for t
 Mention for both cases: I usually add the screenshots / videos in Jira, here you can find them as separate files. For each file there is a mention in the reports where I would normally add the screenshot/video in Jira.
 
 In console some errors can be seen. Investigation for those errors is needed to see if there is real impact on functionality.
+
+Workflow:
+1. Open "UI Test QA Engineer - report Anca Paraschiv.pdf"
+2. For each reported bug/improvement check the corresponding image/video, starting with <number> (from 1 to 9)
+3. Open "Additional report - Anca Paraschiv.pdf"
+4. For each reported bug/improvement check the corresponding image/video, starting with Additional_<number>
